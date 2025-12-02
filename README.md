@@ -99,10 +99,10 @@ npm run dev
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, please open an issue on GitHub.
+For questions or feedback, please contact 
+g.komilova@newuu.uz
+r.berdimurodova@newuu.uz
+n.tolqunov@newuu.uz
